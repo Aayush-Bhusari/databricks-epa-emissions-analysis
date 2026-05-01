@@ -18,6 +18,13 @@ A Databricks dashboard was created to visualize:
 2. Per-capita emissions
 3. Top emitting states
 
+## Dashboards
+
+![Emissions per Location](dashboards/Emissions%20per%20location.png)
+![Emissions vs Population](dashboards/Emissions%20vs%20Population.png)
+![Total Emissions by mTon CO2e](dashboards/Total%20Emissions%20by%20mTon%20CO2e.png)
+![Visualization](dashboards/visualization.png)
+
 
 Key Insight
 
